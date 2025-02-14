@@ -1,4 +1,4 @@
-<img align="center" height="70%" width="70%" src="https://blog.cronapp.io/wp-content/uploads/2020/09/javascript-1.jpg"> 
+<img align="center" height="70%" width="70%" src="https://blog.ebaconline.com.br/blog/wp-content/uploads/2022/12/rhntgjz3cfkjkv6pq8mjw-e1671317351710-1024x649.png"> 
 <br>
 
 ***Sejam bem vindos ao repositorio***
